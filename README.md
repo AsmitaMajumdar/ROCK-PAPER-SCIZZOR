@@ -1,1 +1,1 @@
-#This is my Rock paper scizzor game
+# This is my Rock paper scizzor game
